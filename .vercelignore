@@ -1,0 +1,41 @@
+# Ignore files not needed for deployment
+preprocess.py
+discourse_downloader_full.py
+website_downloader_full.py
+
+# Cache and environment
+__pycache__/
+*.pyc
+*.log
+.git/
+.venv/
+
+
+
+
+
+# Ignore folders not needed in production
+downloaded_threads/
+markdown_files/
+__pycache__/
+.venv/
+venv/
+
+
+# Git metadata (never needed in deployment)
+.git/
+
+
+# Dev tools / local config
+project-tds-virtual-ta-promptfoo.yaml
+.env
+
+# OS or editor generated
+*.pyc
+.DS_Store
+
+# Optional files not needed at runtime
+README.md
+LICENSE
+
+
