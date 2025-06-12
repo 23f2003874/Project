@@ -7,6 +7,7 @@ __pycache__/
 
 # Ignore files
 .env
-.project-tds-virtual-ta-promptfoo.yaml
+
 *.pyc
 .DS_Store
+project-tds-virtual-ta-promptfoo.yaml
