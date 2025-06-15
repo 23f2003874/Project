@@ -1,4 +1,6 @@
-
+# markdownify
+# playwright     1st 3 Requirements are for the web scraping part and on vercel they were taking too much space 
+# requests
 
 fastapi
 uvicorn
